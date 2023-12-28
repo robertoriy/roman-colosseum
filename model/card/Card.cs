@@ -4,7 +4,7 @@ public class Card
 {
     public Card(int value, CardColor color)
     {
-        if (value < 0 || value > 15)
+        if (value < 0 || value > 17)
         {
             throw new ArgumentException("Invalid card value");
         }
@@ -15,6 +15,11 @@ public class Card
     public int Value { get; }
     
     public CardColor Color { get; }
+    
+    public override string ToString()
+    {
+        return Color == CardColor.Black ? $"♠️ {Value}" : $"♦️ {Value}";
+    }
     
     public override bool Equals(object? obj)
     {

@@ -4,7 +4,7 @@ namespace model.generator;
 
 public class CardDeckGenerator: ICardDeckGenerator
 {
-    private const int DefaultDeckSize = 32;
+    private static readonly int DefaultDeckSize = 36;
     
     public Card[] Generate()
     {
