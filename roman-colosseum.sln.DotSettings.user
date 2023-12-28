@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">DO_NOT_SHOW</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=251a8eaf_002D80d7_002D4142_002Da41f_002D6eea3f3b6473/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CardDeckHas18BlackAndRedCards" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.CardDeckGeneratorTests.CardDeckHas18BlackAndRedCards&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.SimpleCardPickStraregyTests.PickingExpectedCardWithSimplePickStrategy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.ColosseumSandboxTests.ShuffleOnlyOnce&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.ColosseumSandboxTests.CorrectnessOfExperimentResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.ColosseumSandboxTests.ExperimentResultFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.ColosseumSandboxTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.SimpleCardPickStrategyTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae693ba3_002D38f7_002D43be_002D9755_002D89c978a3b9aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CardDeckHas18BlackAndRedCards #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::22DA1CEB-9251-4AD9-BF48-A85F6933E605::net8.0::tests.CardDeckGeneratorTests.CardDeckHas18BlackAndRedCards&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

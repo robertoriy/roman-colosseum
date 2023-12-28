@@ -1,0 +1,13 @@
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.AssemblyInfoInputs.cache
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.AssemblyInfo.cs
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.csproj.CoreCompileInputs.cache
+D:\code\dotnet\roman-colosseum\model\bin\Debug\net8.0\model.deps.json
+D:\code\dotnet\roman-colosseum\model\bin\Debug\net8.0\model.dll
+D:\code\dotnet\roman-colosseum\model\bin\Debug\net8.0\model.pdb
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.dll
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\refint\model.dll
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.pdb
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\ref\model.dll
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.sourcelink.json
+D:\code\dotnet\roman-colosseum\model\obj\Debug\net8.0\model.csproj.AssemblyReference.cache
